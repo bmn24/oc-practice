@@ -4,3 +4,4 @@ Mysuru
 Mandya
 Sugar City
 Garden City
+Palace
