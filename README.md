@@ -3,3 +3,4 @@ Bengaluru
 Mysuru
 Mandya
 Sugar City
+Garden City
