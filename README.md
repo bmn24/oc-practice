@@ -2,3 +2,4 @@
 Bengaluru
 Mysuru
 Mandya
+Sugar City
